@@ -1,0 +1,6 @@
+{
+  "name": "NU494 Course Hub",
+  "description": "ระบบบริหารจัดการรายวิชา พย. 494 (Critical and Emergency Nursing Practicum)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
